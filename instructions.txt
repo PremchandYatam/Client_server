@@ -1,0 +1,14 @@
+A PYTHON PROGRAM ON CLIENT-SERVER MANAGEMENT SYSTEM APPLICATION.
+
+Following are the steps to run the application.
+
+1. Extract the Zip file sent and you will get the required files and folders.
+
+2. Next, run the main_function.py file in one terminal.
+	--Here the server is defaulty connected to the localhost with port ((127.0.0.1), port 8080).
+
+3. At last, run the required number of clients i.e. client.py file in different terminals because one 
+   server can handle multiple number of clients.
+
+
+
